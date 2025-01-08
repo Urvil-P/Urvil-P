@@ -1,6 +1,12 @@
-# 💫 About Me:
-👋 Hi, I'm Urvil Panchal!<br>I'm a Data Science student passionate about leveraging Machine Learning, Deep Learning, and Natural Language Processing to solve real-world problems. With hands-on experience in data visualization, object detection, and Generative AI, I enjoy crafting AI-powered solutions that make an impact. 🚀<br><br>💡 Currently, I'm focused on building innovative applications, fine-tuning Large Language Models (LLMs), and exploring frameworks like LangChain to push the boundaries of AI.<br><br>🌟 My expertise includes:<br>Machine Learning and Deep Learning<br>Generative AI and Large Language Models<br>LLM Fine-tuning and Building RAG Pipelines
+# 👋 Hi, I'm Urvil Panchal!
+I'm a Data Science student passionate about leveraging Machine Learning, Deep Learning, and Natural Language Processing to solve real-world problems. With hands-on experience in data visualization, object detection, and Generative AI, I enjoy crafting AI-powered solutions that make an impact. 🚀
 
+💡 Currently, I'm focused on building innovative applications, fine-tuning Large Language Models (LLMs), and exploring frameworks like LangChain to push the boundaries of AI.
+## 🌟 My expertise includes:
+
+### Machine Learning and Deep Learning
+### Generative AI and Large Language Models
+### LLM Fine-tuning and Building RAG Pipelines
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/urvil-panchal/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@urvilpanchal13) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Urvil_1313) 
